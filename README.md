@@ -44,7 +44,7 @@ The `Users` list should render:
 - The background colour of each list item should change according to gender
 - The email of the user
 
-### Challenge Section
+### Extension 1
 
 The `Advice` slip section should render:
 
