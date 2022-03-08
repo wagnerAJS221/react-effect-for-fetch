@@ -1,8 +1,16 @@
-# Getting Started
+# React Effect with Fetch
 
-`npm install`
+## Learning Objectives
+- Explain the method signature of React’s effect hook
+- Build a component with an effect hook that requests data from an API only on component mounting
+- Build a component that has a state and an effect hook
+- Build a component with an effect hook that watches for changes to a given value and triggers the effect
+- Build a component that is passed data via props with an effect hook that watches for changes to a props value
 
-`npm start`
+## Set up
+* Fork and clone
+* `npm install`
+* `npm start`
 
 ## Instructions
 
